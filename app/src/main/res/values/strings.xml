@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bargraph</string>
+    <string name="student_number_prompt">Enter # of Students Here!</string>
+    <string name="student_count_label">Student Count</string>
+    <string name="date_label">Date</string>
+    <string name="date_prompt">MM/DD</string>
+    <string name="button_text">Add Data</string>
+</resources>
